@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "SMR JDM Vehicles-",
+       "initial": "It is a JDM car booking website.",
+        "description": "There are two kinds of users on this website- admin and buyers. Admins have the ability to create more admins as well as add new vehicles. This website uses Firebase authentication, which allows users to log in using an email address.When a user visits the dashboard, he or she may examine their orders as well as write feedback.",
+        "technology": "React JS, Bootstrap5, React Router, React Hook Form, Firebase Authentication, Node JS, Express JS, MongoDB, Heroku, Firebase Hosting.",
+        "liveSite": "https://smr-jdm-cars.web.app/",
+        "githubClient": "https://github.com/smrakibuzzaman/smr-jdm-client",
+        "githubServer": "https://github.com/smrakibuzzaman/smr-jdm-server",
+        "image": "https://iili.io/5b6hFt.jpg"
+    },
+    {
+        "id": 2,
+        "name": "GoSMR Travel Booking-",
+        "initial": "A tour package booking website.",
+        "description": "Users may go to the website and look at the tour packages in detail. Users may book the package by providing certain information. After booking, users can view their booking packages and cancel them at any moment. This website uses firebase authentication, which allows users to log in using their Google account. It has a tour blog (for visiting Bangladesh).",
+        "technology": "React JS, Bootstrap5, React Router, React Hook Form, Firebase Authentication, Node JS, Express JS, MongoDB, Heroku, Firebase Hosting.",
+        "liveSite": "https://gosmr-travel-booking.web.app/",
+        "githubClient": "https://github.com/smrakibuzzaman/gosmr-client",
+        "githubServer": "https://github.com/smrakibuzzaman/gosmr-server",
+        "image": "https://iili.io/5b6kNf.jpg"
+    },
+    {
+        "id": 3,
+        "name": "SMR Healthcare-",
+        "initial": "A healthcare-related website.",
+        "description": "To access the details of healthcare services, users must first log in. This website uses firebase authentication, which allows users to log in using their email account. It has a research-based health blog and feedback section.",
+        "technology": "React JS, Bootstrap5, React Router, Firebase Authentication, Firebase Hosting.",
+        "liveSite": "https://smr-health-care.web.app/",
+        "githubClient": "https://github.com/smrakibuzzaman/smr-healthcare",
+        "image": "https://iili.io/5b6Sol.jpg"
+    },
+    {
+        "id": 4,
+        "name": "SMR Legal Courses(SMRLC)-",
+        "initial": "It is an online based legal education website.",
+        "description": "An online legal education platform, SMRLC is focused towards creating access to justice in Bangladesh. It has four top rated courses in the Home page and all other courses in the Courses page. This website also have a litigation section.",
+        "technology": "React JS, Bootstrap5, React Router, Netlify Hosting.",
+        "liveSite": "https://smr-legal-courses.netlify.app/",
+        "githubClient": "https://github.com/smrakibuzzaman/smr-legal-learning",
+        "image": "https://iili.io/5bPYs2.jpg"
+    }
+    
+]
