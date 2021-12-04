@@ -31,6 +31,11 @@ const Navigation = () => {
                                 </HashLink>
                             </li>
                             <li className="nav-item">
+                                <HashLink to="/blogs" className="nav-link cool-link" aria-current="page">
+                                    Blogs
+                                </HashLink>
+                            </li>
+                            <li className="nav-item">
                                 <HashLink to="/home#contact" className="nav-link cool-link" aria-current="page">
                                     Contact
                                 </HashLink>
@@ -40,20 +45,7 @@ const Navigation = () => {
                     </div>
                 </div>
             </nav>
-             {/* <Navbar  bg="dark" variant="dark" sticky="top" expand="md">
-            
-            <Container>
-            
-            <Navbar.Brand href="#home" style={{ color: 'goldenRod',fontWeight: 'bold',fontSize: '25px' }}>S.M. RAKIBUZZAMAN</Navbar.Brand>
-            <Nav className="ms-auto">
-              <Nav.Link as={HashLink} to="/home">Home</Nav.Link>
-              <Nav.Link as={HashLink} to="/home#about">About</Nav.Link>
-              <Nav.Link as={HashLink} to="/home#projects">Projects</Nav.Link>
-              <Nav.Link as={HashLink} to="/home#resume">Resume</Nav.Link>
-              <Nav.Link as={HashLink} to="/home#contact">Contact</Nav.Link>
-            </Nav>
-            </Container>
-          </Navbar> */}
+             
         </div>
     );
 };

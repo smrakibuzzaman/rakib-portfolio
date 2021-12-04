@@ -10,6 +10,7 @@ import Home from './components/Home/Home';
 import ProjectDetails from './components/ProjectDetails/ProjectDetails';
 import NotFound from './components/NotFound/NotFound';
 import Footer from './components/Footer/Footer';
+import Blogs from './components/Blogs/Blogs';
 
 function App() {
   return (
@@ -31,6 +32,10 @@ function App() {
 
 <Route path="/project/:projectId">
 <ProjectDetails/>
+</Route>
+
+<Route path="/blogs">
+<Blogs/>
 </Route>
 
 <Route path="*">

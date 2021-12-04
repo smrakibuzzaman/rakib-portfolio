@@ -18,11 +18,11 @@ const Introduction = () => {
                         <h2 className="fw-bold text-uppercase">S.M. RAKIBUZZAMAN</h2>
                     
 
-                    <p> Front End React Developer</p>
+                    <p> Front-End Web Developer</p>
 
 
                     <p className="lh-lg">
-                        <span className="rounded language border border-rounded bg-secondary text-light p-1">JavaScript</span> <span className="rounded language border border-rounded bg-secondary text-light p-1">React</span> <span className="rounded language border border-rounded bg-secondary text-light p-1">MongoDB</span> <span className="rounded  border border-rounded bg-secondary text-light p-1">Node.js</span>
+                        <span className="rounded language border border-rounded bg-secondary text-light p-1">JavaScript</span> <span className="rounded language border border-rounded bg-secondary text-light p-1">React JS</span> <span className="rounded language border border-rounded bg-secondary text-light p-1">MongoDB</span> <span className="rounded  border border-rounded bg-secondary text-light p-1">Node JS</span>
                     </p>
 
                     
